@@ -1,0 +1,8 @@
+prefix=/home/sunmiao/projects/catkin_workspace/devel
+
+Name: darknet_ros
+Description: Description of darknet_ros
+Version: 1.1.3
+Cflags: -I/home/sunmiao/projects/catkin_workspace/src/darknet_ros/darknet_ros/include -I/usr/include
+Libs: -L/home/sunmiao/projects/catkin_workspace/devel/lib -ldarknet_ros_lib -l:/usr/lib/x86_64-linux-gnu/libboost_thread.so -l:/usr/lib/x86_64-linux-gnu/libboost_chrono.so -l:/usr/lib/x86_64-linux-gnu/libboost_system.so -l:/usr/lib/x86_64-linux-gnu/libboost_date_time.so -l:/usr/lib/x86_64-linux-gnu/libboost_atomic.so -l:/usr/lib/x86_64-linux-gnu/libpthread.so
+Requires: cv_bridge roscpp actionlib rospy std_msgs darknet_ros_msgs image_transport

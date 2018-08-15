@@ -1,0 +1,8 @@
+prefix=/home/sunmiao/projects/catkin_workspace/install
+
+Name: darknet_ros_msgs
+Description: Description of darknet_ros_msgs
+Version: 1.1.3
+Cflags: -I/home/sunmiao/projects/catkin_workspace/install/include
+Libs: -L/home/sunmiao/projects/catkin_workspace/install/lib 
+Requires: actionlib_msgs geometry_msgs sensor_msgs message_runtime std_msgs

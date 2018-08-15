@@ -1,0 +1,8 @@
+prefix=/home/sunmiao/projects/catkin_workspace/devel
+
+Name: image_transport_tutorial
+Description: Description of image_transport_tutorial
+Version: 0.0.0
+Cflags: -I/home/sunmiao/projects/catkin_workspace/devel/include
+Libs: -L/home/sunmiao/projects/catkin_workspace/devel/lib 
+Requires: cv_bridge image_transport message_runtime sensor_msgs
