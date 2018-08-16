@@ -1,0 +1,14 @@
+yolo_model:
+
+  config_file:
+    name: yolov3-tianjin.cfg
+  weight_file:
+    name: yolov3-tianjin_final.weights
+  threshold:
+    value: 0.3
+  detection_classes:
+    names:
+      - loadedtrunk
+      - emptytrunk
+      - car
+      - forklift

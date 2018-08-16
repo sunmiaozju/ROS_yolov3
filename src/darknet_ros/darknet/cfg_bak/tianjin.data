@@ -1,0 +1,5 @@
+classes= 6
+train  = /home/sunmiao/projects/darknet-master/myDataset/tianjin_selected/train.txt
+valid  = /home/sunmiao/projects/darknet-master/myDataset/tianjin_selected/val.txt
+names = /home/sunmiao/projects/darknet-master/data/tianjin.names
+backup = /home/sunmiao/projects/darknet-master/backup/tianjin

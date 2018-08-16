@@ -1,0 +1,6 @@
+classes= 20
+train  = /home/sunmiao/projects/darknet-master/VOC/train.txt
+valid  = /home/sunmiao/projects/darknet-master/VOC/2007_test.txt
+names = data/voc.names
+backup = backup
+

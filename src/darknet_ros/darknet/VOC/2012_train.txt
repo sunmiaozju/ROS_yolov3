@@ -1,0 +1,1 @@
+/home/sunmiao/projects/darknet-master/VOC/VOCdevkit/VOC2012/JPEGImages/2008_000008.jpg
